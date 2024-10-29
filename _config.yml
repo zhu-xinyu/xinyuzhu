@@ -12,9 +12,9 @@ title                    : "Xinyu Zhu"
 title_separator          : "-"
 name                     : "Xinyu Zhu"
 description              : "Ph.D. Student (Year 2)"
-url                      : "xzhu.net"
-baseurl                  :
-repository               :
+url                      : "https://github.com/zhu-xinyu/xinyuzhu" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : "xzhu.net" # the subpath of your site, e.g. "/blog"
+repository               : "https://github.com/zhu-xinyu/xinyuzhu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
