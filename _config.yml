@@ -21,7 +21,7 @@ repository               : "https://github.com/zhu-xinyu/xinyuzhu"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/profile.jpg"
   name             : "Xinyu Zhu 朱鑫雨"
   pronouns         : "He/Him"  
   bio              : "A Ph.D. Student (Year 2) in Linguistics"
