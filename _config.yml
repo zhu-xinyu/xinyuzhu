@@ -12,8 +12,8 @@ title                    : "Xinyu Zhu"
 title_separator          : "-"
 name                     : &name "Xinyu Zhu"
 description              : &description "Ph.D. Student (Year 2)"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "http://xzhu.net"
-baseurl                  : "" # the subpath of your site, e.g. "http://xzhu.net"
+url                      : "http://xzhu.net"
+baseurl                  : "http://xzhu.net"
 repository               : "https://github.com/zhu-xinyu/xinyuzhu"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
