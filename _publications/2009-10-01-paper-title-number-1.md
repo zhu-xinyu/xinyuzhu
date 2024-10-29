@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 1"
+title: "东南部方言后置副词的生成句法分析 [Generative Syntactic Analysis of Postverbal Adverbs in Southeastern Chinese Dialects]"
 collection: publications
 category: manuscripts
 permalink: /publication/2009-10-01-paper-title-number-1
