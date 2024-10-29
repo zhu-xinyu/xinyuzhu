@@ -23,30 +23,20 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xinyu Zhu 朱鑫雨"
-  pronouns         : "he/him"  
+  pronouns         : "He/Him"  
   bio              : "A Ph.D. Student (Year 2) in Linguistics"
   location         : "Newcastle, UK"
   employer         : "Newcastle University"
   uri              : # URL
-  email            : "x.zhu28[@]newcastle.ac.uk" 
+  email            : "x.zhu28@newcastle.ac.uk" 
 
   # Academic websites
-  arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=NjWOSf0AAAAJ&hl=zh-CN"
-  impactstory      : # URL
   orcid            : # URL
-  semantic         : # URL
-  pubmed           : # URL
   researchgate     : "https://www.researchgate.net/profile/Xinyu-Zhu-43"
-  scopus           : # URL
 
   # Repositories and software development
-  bitbucket        : # Username - Update with your username on the site
-  codepen          : # Username
-  dribbble         : # Username
   github           : "https://github.com/zhu-xinyu"
-  kaggle           : # Username  
-  stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   bilibili          : "https://space.bilibili.com/1665839188?spm_id_from=333.1007.0.0"
@@ -72,7 +62,7 @@ author:
   wikipedia        : # Username
   xing             : # Username
   youtube          : # Username
-  zhihu            : # Username
+  zhihu            : "https://www.zhihu.com/people/syntactician"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
