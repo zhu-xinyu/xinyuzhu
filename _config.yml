@@ -12,7 +12,7 @@ title                    : "Xinyu Zhu"
 title_separator          : "-"
 name                     : "Xinyu Zhu"
 description              : "Ph.D. Student (Year 2)"
-url                      : "xzhu.net" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : xzhu.net # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "https://github.com/zhu-xinyu/xinyuzhu"
 
