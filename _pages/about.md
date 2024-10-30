@@ -19,6 +19,8 @@ Research Interests
 * Natural Language Processing (Python)
 * And all sorts of interesting language phenomena
 
+I am also passionate about writing popular science articles on linguistics, and providing online tutorials and Q&A sessions in generative syntax. Below are some related websites and videos.
+
 External Links
 ======
 **Zhihu 知乎** (Popular science; written in Chinese)
