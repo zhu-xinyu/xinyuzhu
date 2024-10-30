@@ -11,35 +11,10 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D in Linguistics, Newcastle University, 2026 (expected)
+* M.A. in Linguistics, University of Leeds, 2022
+* B.A. in English language and literature, China Jiliang University, 2021
+* Diploma in Business English, Zhejiang Financial College, 2019
 
 Publications
 ======
@@ -59,6 +34,8 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
+Service and memberships
 ======
-* Currently signed in to 43 different slack teams
+* Course Representative for PhD in Linguistics, School of English Literature, Language and Linguistics, Newcastle University, 2024-2025
+* Newcastle Syntax-Prosody Reading Group, 2024-2025 [Organiser members]
+* Newcastle Syntax Reading Group, 2023-2024
