@@ -45,7 +45,7 @@ author:
   twitter          : # Username for X / Twitter
   weibo            : # Username
   youtube          : # Username
-  zhihu            : "https://www.zhihu.com/people/syntactician"
+  zhihu            : "syntactician"
 
 # Publication Category - The following the list of publication categories and their headings
 publication_category:
