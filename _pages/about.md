@@ -45,6 +45,7 @@ External Links
 - Bounding Theory [Link](https://www.bilibili.com/video/BV1u94y1g72X/?spm_id_from=333.999.0.0)
 - Binding Theory [Link](https://www.bilibili.com/video/BV1pT4y1H7Qa/?spm_id_from=333.999.0.0)
 - Distributed Morphology [Link](https://www.bilibili.com/video/BV11S411P7xa/?spm_id_from=333.999.list.card_archive.click&vd_source=e331a10aebf38deb0cf6c89513e4974b)
+- An Introduction to the Minimalist Program (1): From P&P to MP [Link](https://www.bilibili.com/video/BV13TmWYVE98/?spm_id_from=333.999.list.card_archive.click&vd_source=e331a10aebf38deb0cf6c89513e4974b)
 
 More to come!
 
