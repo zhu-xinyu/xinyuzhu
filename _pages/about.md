@@ -15,7 +15,7 @@ Research Interests
 ======
 * Adverb syntax; Chinese dialects syntax (esp. Wu Chinese)
 * Generative Syntax: Minimalist Program; Distributed Morphology
-* Syntax-Prosody Interface
+* Syntax-Prosody Interface: Contiguity Theory
 * Natural Language Processing (Python)
 * And all sorts of interesting language phenomena
 
