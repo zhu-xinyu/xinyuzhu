@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate seminar"
 permalink: /teaching/2024-autumn-teaching-1
 venue: "Newcastle University, SELLL"
-date: 2024
+date: 2024-09-24
 location: "Newcastle, UK"
 ---
 
