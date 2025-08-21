@@ -1,9 +1,9 @@
 ---
-title: "Explaining the Syntactic Distributions of Reduplicated Adverbs in Mandarin from the Syntax-Semantics/Prosody Interface."
+title: "The Syntax of Mandarin AABB Manner Adverbials"
 collection: presentations
 type: "Oral Presentation"
-permalink: /talks/2024-06-06-presentation-3
-venue: "SELLL PG Conference 2024, Newcastle University"
-date: 2024-06-06
-location: "Newcastle, UK"
+permalink: /talks/2025-03-08-presentation-4
+venue: "MiMA! Workshop, Utrecht University, March 2025"
+date: 2025-03-08
+location: "Utrecht, the Netherlands"
 ---
