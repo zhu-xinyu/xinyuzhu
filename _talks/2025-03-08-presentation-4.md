@@ -7,3 +7,5 @@ venue: "MiMA! Workshop, Utrecht University, March 2025"
 date:
 location: "Utrecht, the Netherlands"
 ---
+
+[More information here](https://mfilconf.wordpress.com/wp-content/uploads/2024/04/abstract-booklet-2024-2.pdf](https://blog.philsoc.org.uk/2025/05/05/reduplicated-manner-adverbials-in-mandarin-presented-at-the-mima-workshop-2025/)
